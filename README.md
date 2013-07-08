@@ -7,6 +7,7 @@ docs
 2. 获取ejecta的canvas的方法： __document.getElementById('canvas')__ 
 3. 多行注释写在对象声明上可能会导致 __“No or empty script given” Error__ 
 4. Ejecta的Audio并不支持 __ogg__ 音频格式
+5. 对象直接量的声明内的出现多行注释会导致执行错误
 
 ```javascript
 var obj = {
