@@ -1,7 +1,7 @@
 docs
 ====
 
-docs
+### Notice
 
 1. 移植canvas游戏到ejecta时，需要的移植index.html的资源引用到index.js，采用 __ejecta.include()__ ;
 2. 获取ejecta的canvas的方法： __document.getElementById('canvas')__ 
@@ -18,7 +18,7 @@ var obj = {
         }
 ```
 
-### caat
+### CAAT
 
 ##### structure
 
